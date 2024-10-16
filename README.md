@@ -89,7 +89,7 @@
   <a href="https://youtube.com/@TheCyberHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://linkedin.com/in/pushkarsharma652/" target="_blank">
+  <a href="https://linkedin.com/in/push4ck/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="push4ck@gmail.com" target="_blank">
@@ -98,8 +98,10 @@
   <a href="https://instagram.com/push4ck/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
-  <a href="https://stackoverflow.com/users/23485716/pushkar-sharma" target="_blank">
+  <a href="https://tryhackme.com/p/push4ck/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/23485716/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
   <a href="https://dribbble.com/Push4ck" target="_blank">
