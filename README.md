@@ -1,6 +1,8 @@
-<br clear="both">
+<img align="right" height="135" src="https://media1.tenor.com/m/ZOP98DIBuq8AAAAC/dog-typing.gif"  />
 
-<h1 align="center">Hi 👋! My name is Pushkar Sharma.<br>I'm a Full Stack Developer from India.</h1>
+###
+
+<h1 align="center">Hi 👋! I'm Pushkar Sharma.<br>Full Stack Developer</h1>
 
 ###
 
