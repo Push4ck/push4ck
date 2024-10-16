@@ -78,7 +78,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/96md4g.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif"  />
 
 ###
 
