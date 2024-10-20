@@ -1,5 +1,5 @@
 <h1>Hey! 👋🏼 I'm Pushkar Sharma</h1>
-<h6>I'm a full-stack developer who loves building high-performance web apps and diving into cybersecurity to make sure everything stays secure. When I'm not coding, you can find me sketching, trying out new recipes, or playing badminton! Let’s create something awesome together!</h6>
+<h4>I'm a full-stack developer who loves building high-performance web apps and diving into cybersecurity to make sure everything stays secure. When I'm not coding, you can find me sketching, trying out new recipes, or playing badminton! Let’s create something awesome together!</h4>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logo=Instagram&logoColor=white)](https://instagram.com/push4ck) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=white)](https://linkedin.com/in/push4ck) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23485716) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=twitterlogoColor=white)](https://x.com/push4ck) 
 
