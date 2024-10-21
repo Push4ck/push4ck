@@ -7,7 +7,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23485716)
 [![Twitter](https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/push4ck)
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230E76D0.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@cyberhub)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-1DAA1D.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-1DAA1D.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/push4ck)
 
 ### Skills 🎯
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
