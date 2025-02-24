@@ -1,5 +1,5 @@
 # Hey!👋🏻 I'm Pushkar Sharma (Push4ck)
-#### I'm a full-stack developer who loves building high-performance web apps and diving into cybersecurity to make sure everything stays secure. When I'm not coding, you can find me sketching, trying out new recipes, or playing badminton!
+#### I'm a software developer who loves building high-performance web apps and diving into cybersecurity to make sure everything stays secure. When I'm not coding, you can find me sketching, trying out new recipes, or playing badminton!
 Let’s create something awesome together!
 
 ## Follow me here 👇🏻
