@@ -57,7 +57,5 @@ Let’s create something awesome together!
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=push4ck&icon=2&color=8" alt="Visitor Count" />
-  </a>
+  Happy Coding :)
 </p>
