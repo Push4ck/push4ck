@@ -57,9 +57,3 @@ Let's build something meaningful—and secure—with a touch of intelligence.
 ![Splunk](https://img.shields.io/badge/Splunk-%23F0A500.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23A8B400.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-%23D03338.svg?style=for-the-badge&logo=paloalto&logoColor=white)
-
----
-
-<p align="center">
-  Happy Coding :)
-</p>
