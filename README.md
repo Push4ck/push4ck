@@ -14,7 +14,7 @@ Let's build something meaningful—and secure—with a touch of intelligence.
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230E76D0.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@cyberhub)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-1DAA1D.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/push4ck)
 
-### Skills 🎯
+## Skills 🎯
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -57,3 +57,14 @@ Let's build something meaningful—and secure—with a touch of intelligence.
 ![Splunk](https://img.shields.io/badge/Splunk-%23F0A500.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23A8B400.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-%23D03338.svg?style=for-the-badge&logo=paloalto&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
