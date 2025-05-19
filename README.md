@@ -1,6 +1,10 @@
 # Hey!👋🏻 I'm Pushkar Sharma (Push4ck)
-#### I'm a software developer who loves building high-performance web apps and diving into cybersecurity to make sure everything stays secure. When I'm not coding, you can find me sketching, trying out new recipes, or playing badminton!
-Let’s create something awesome together!
+#### I’m a passionate software developer with a strong focus on building high-performance, secure, and scalable web applications. My core expertise lies in technologies like React, Next.js, Node.js, and Tailwind CSS, and I enjoy crafting seamless user experiences that are both functional and visually compelling.
+
+#### Beyond front-end mastery, I actively explore AI integration in modern web development—from smart UI behavior and personalization to AI-enhanced developer tools. I'm also committed to cybersecurity, ensuring that the systems I build are not only powerful but also secure by design.
+
+#### When I’m not coding, I enjoy sketching, experimenting with new recipes, or hitting the badminton court for a quick rally.
+Let's build something meaningful—and secure—with a touch of intelligence.
 
 ## Follow me here 👇🏻
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/push4ck)
